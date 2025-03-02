@@ -1,7 +1,7 @@
 body {
 
   background-image: url("../figuras/fondoo.png");
-  background-repeat: repeat-y; 
+  background-size: cover;
      
 }
 
@@ -23,7 +23,7 @@ h1 {
   font-weight: bold;
   text-align: center;  
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #000;
+  color: Tomato;
   
 }
 
@@ -56,6 +56,10 @@ img {
   width: 100px;
   height: 100px;
 
+}
+table {
+  width: 15px;
+  height: 15px;
 }
 table {
   width: 15px;
